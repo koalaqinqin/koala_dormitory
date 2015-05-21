@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/dao/impl
+END
+Floor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/128/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Floor.xml
+END
+BuildingDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/BuildingDaoImpl.java
+END
+Student.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/202/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Student.xml
+END
+StudentStatisticsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dormitory/!svn/ver/210/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/StudentStatisticsDaoImpl.java
+END
+Admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/186/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Admin.xml
+END
+StudentInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dormitory/!svn/ver/186/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/StudentInfoDaoImpl.java
+END
+AcademyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/AcademyDaoImpl.java
+END
+Building.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Building.xml
+END
+AreaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dormitory/!svn/ver/128/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/AreaDaoImpl.java
+END
+StudentStatistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dormitory/!svn/ver/210/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/StudentStatistics.xml
+END
+Academy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/158/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Academy.xml
+END
+ExcelInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dormitory/!svn/ver/125/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/ExcelInfoDaoImpl.java
+END
+RoomDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dormitory/!svn/ver/215/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/RoomDaoImpl.java
+END
+Area.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dormitory/!svn/ver/128/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Area.xml
+END
+FloorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dormitory/!svn/ver/128/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/FloorDaoImpl.java
+END
+Teacher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/182/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Teacher.xml
+END
+Room.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dormitory/!svn/ver/187/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/Room.xml
+END
+ExcelInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/ExcelInfo.xml
+END
+BaseDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dormitory/!svn/ver/3/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/BaseDaoSupport.java
+END
+TeacherInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/TeacherInfoDaoImpl.java
+END
+AdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dormitory/!svn/ver/182/trunk/dormitory/src/com/cqupt/dormitory/dao/impl/AdminDaoImpl.java
+END

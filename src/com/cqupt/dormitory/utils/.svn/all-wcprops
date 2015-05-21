@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dormitory/!svn/ver/171/trunk/dormitory/src/com/cqupt/dormitory/utils
+END
+DBManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dormitory/!svn/ver/63/trunk/dormitory/src/com/cqupt/dormitory/utils/DBManager.java
+END
+ExcelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/utils/ExcelUtils.java
+END
+UploadFileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dormitory/!svn/ver/79/trunk/dormitory/src/com/cqupt/dormitory/utils/UploadFileUtils.java
+END
+SystemContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dormitory/!svn/ver/63/trunk/dormitory/src/com/cqupt/dormitory/utils/SystemContext.java
+END
+JSONUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dormitory/!svn/ver/16/trunk/dormitory/src/com/cqupt/dormitory/utils/JSONUtils.java
+END
+DataTypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dormitory/!svn/ver/171/trunk/dormitory/src/com/cqupt/dormitory/utils/DataTypeUtils.java
+END

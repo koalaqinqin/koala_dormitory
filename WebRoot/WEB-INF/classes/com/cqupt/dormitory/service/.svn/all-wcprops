@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/service
+END
+FloorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dormitory/!svn/ver/84/trunk/dormitory/src/com/cqupt/dormitory/service/FloorService.java
+END
+StudentInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dormitory/!svn/ver/176/trunk/dormitory/src/com/cqupt/dormitory/service/StudentInfoService.java
+END
+AreaBuildingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/service/AreaBuildingService.java
+END
+TeacherInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/service/TeacherInfoService.java
+END
+ExcelInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dormitory/!svn/ver/191/trunk/dormitory/src/com/cqupt/dormitory/service/ExcelInfoService.java
+END
+RoomService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dormitory/!svn/ver/191/trunk/dormitory/src/com/cqupt/dormitory/service/RoomService.java
+END

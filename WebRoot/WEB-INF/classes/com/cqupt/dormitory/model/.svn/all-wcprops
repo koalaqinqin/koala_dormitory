@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dormitory/!svn/ver/197/trunk/dormitory/src/com/cqupt/dormitory/model
+END
+Floor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dormitory/!svn/ver/7/trunk/dormitory/src/com/cqupt/dormitory/model/Floor.java
+END
+Academy.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dormitory/!svn/ver/7/trunk/dormitory/src/com/cqupt/dormitory/model/Academy.java
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/197/trunk/dormitory/src/com/cqupt/dormitory/model/Student.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dormitory/!svn/ver/3/trunk/dormitory/src/com/cqupt/dormitory/model/Admin.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dormitory/!svn/ver/3/trunk/dormitory/src/com/cqupt/dormitory/model/Area.java
+END
+Teacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/154/trunk/dormitory/src/com/cqupt/dormitory/model/Teacher.java
+END
+ExcelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/125/trunk/dormitory/src/com/cqupt/dormitory/model/ExcelInfo.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dormitory/!svn/ver/191/trunk/dormitory/src/com/cqupt/dormitory/model/Room.java
+END
+Building.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/84/trunk/dormitory/src/com/cqupt/dormitory/model/Building.java
+END

@@ -1,0 +1,132 @@
+8
+
+dir
+221
+https://172.22.1.159:8443/svn/dormitory/trunk/dormitory/WebRoot
+https://172.22.1.159:8443/svn/dormitory
+
+
+
+2014-12-15T07:46:30.609375Z
+221
+hehaiyuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0d99a4-deb6-4343-9628-55602dcec4b6
+
+failed.jsp
+file
+
+
+
+
+2014-12-09T14:30:08.078991Z
+ef76ba6d8dfe3367be488d298b88acda
+2002-01-06T17:41:09.843750Z
+5
+fengdi
+
+UploadFile
+dir
+
+前台声明.doc
+file
+
+
+
+
+2014-12-09T14:30:08.084992Z
+f64b60ac620881f7d0493cb3093dfd82
+2002-01-19T17:35:49.656250Z
+97
+tangdegang
+has-props
+
+WEB-INF
+dir
+
+css
+dir
+
+后台接口和传参.docx
+file
+
+
+
+
+2014-12-09T14:30:08.090992Z
+869578095063111e521e01e05b4cc910
+2002-01-16T15:59:54.718750Z
+71
+fengdi
+has-props
+
+super
+dir
+
+META-INF
+dir
+
+success.jsp
+file
+
+
+
+
+2014-12-09T14:30:08.096992Z
+619f433eec7f50baa972042946e3b115
+2002-01-06T17:41:09.843750Z
+5
+fengdi
+
+images
+dir
+
+Download
+dir
+
+findroom.jsp
+file
+
+
+
+
+2014-12-09T14:30:08.101993Z
+373834aedaf2699af874a0f9f476cfca
+2002-01-09T00:07:21.062500Z
+8
+fengdi
+
+json
+dir
+
+fu
+dir
+
+login.html
+file
+
+
+
+
+2014-12-09T14:30:08.105993Z
+8580f4bed6bd1e098d44b08267d50d4e
+2014-12-07T14:37:50.093750Z
+188
+zhangying
+
+js
+dir
+

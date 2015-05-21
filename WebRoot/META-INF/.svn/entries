@@ -1,0 +1,40 @@
+8
+
+dir
+221
+https://172.22.1.159:8443/svn/dormitory/trunk/dormitory/WebRoot/META-INF
+https://172.22.1.159:8443/svn/dormitory
+
+
+
+2014-11-12T14:58:59.453125Z
+3
+fengdi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0d99a4-deb6-4343-9628-55602dcec4b6
+
+MANIFEST.MF
+file
+
+
+
+
+2014-12-09T14:30:06.461899Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2014-11-12T14:58:59.453125Z
+3
+fengdi
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/service/impl
+END
+ExcelInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dormitory/!svn/ver/191/trunk/dormitory/src/com/cqupt/dormitory/service/impl/ExcelInfoServiceImpl.java
+END
+RoomServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dormitory/!svn/ver/191/trunk/dormitory/src/com/cqupt/dormitory/service/impl/RoomServiceImpl.java
+END
+FloorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dormitory/!svn/ver/102/trunk/dormitory/src/com/cqupt/dormitory/service/impl/FloorServiceImpl.java
+END
+StudentInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dormitory/!svn/ver/176/trunk/dormitory/src/com/cqupt/dormitory/service/impl/StudentInfoServiceImpl.java
+END
+AreaBuildingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/service/impl/AreaBuildingServiceImpl.java
+END
+TeacherInfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dormitory/!svn/ver/170/trunk/dormitory/src/com/cqupt/dormitory/service/impl/TeacherInfoServiceImpl.java
+END

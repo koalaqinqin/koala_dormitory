@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dormitory/!svn/ver/210/trunk/dormitory/src/com/cqupt/dormitory/vo
+END
+ClassAndMajor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/12/trunk/dormitory/src/com/cqupt/dormitory/vo/ClassAndMajor.java
+END
+ResultMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dormitory/!svn/ver/12/trunk/dormitory/src/com/cqupt/dormitory/vo/ResultMessage.java
+END
+StudentBuildingDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dormitory/!svn/ver/210/trunk/dormitory/src/com/cqupt/dormitory/vo/StudentBuildingDistribution.java
+END
+AreaBuildingEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dormitory/!svn/ver/84/trunk/dormitory/src/com/cqupt/dormitory/vo/AreaBuildingEmpty.java
+END
+RoomInFloor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dormitory/!svn/ver/44/trunk/dormitory/src/com/cqupt/dormitory/vo/RoomInFloor.java
+END
+AreaBuilding.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dormitory/!svn/ver/25/trunk/dormitory/src/com/cqupt/dormitory/vo/AreaBuilding.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dormitory/!svn/ver/113/trunk/dormitory/src/com/cqupt/dormitory/vo/Condition.java
+END
+BuildingEmptyBed.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dormitory/!svn/ver/84/trunk/dormitory/src/com/cqupt/dormitory/vo/BuildingEmptyBed.java
+END
+Factor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dormitory/!svn/ver/17/trunk/dormitory/src/com/cqupt/dormitory/vo/Factor.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/controller
+END
+ExcelInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dormitory/!svn/ver/208/trunk/dormitory/src/com/cqupt/dormitory/controller/ExcelInfoController.java
+END
+AcademyInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dormitory/!svn/ver/16/trunk/dormitory/src/com/cqupt/dormitory/controller/AcademyInfoController.java
+END
+ClassAndMajorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dormitory/!svn/ver/12/trunk/dormitory/src/com/cqupt/dormitory/controller/ClassAndMajorController.java
+END
+RoomAndFloorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dormitory/!svn/ver/208/trunk/dormitory/src/com/cqupt/dormitory/controller/RoomAndFloorController.java
+END
+StudentStatisticsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dormitory/!svn/ver/210/trunk/dormitory/src/com/cqupt/dormitory/controller/StudentStatisticsController.java
+END
+StudentInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dormitory/!svn/ver/202/trunk/dormitory/src/com/cqupt/dormitory/controller/StudentInfoController.java
+END
+HelloController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dormitory/!svn/ver/89/trunk/dormitory/src/com/cqupt/dormitory/controller/HelloController.java
+END
+AdminInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dormitory/!svn/ver/182/trunk/dormitory/src/com/cqupt/dormitory/controller/AdminInfoController.java
+END
+TeacherInfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dormitory/!svn/ver/198/trunk/dormitory/src/com/cqupt/dormitory/controller/TeacherInfoController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dormitory/!svn/ver/158/trunk/dormitory/src/com/cqupt/dormitory/controller/LoginController.java
+END
+AreaAndBulidingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dormitory/!svn/ver/221/trunk/dormitory/src/com/cqupt/dormitory/controller/AreaAndBulidingController.java
+END
+VaildateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dormitory/!svn/ver/92/trunk/dormitory/src/com/cqupt/dormitory/controller/VaildateController.java
+END

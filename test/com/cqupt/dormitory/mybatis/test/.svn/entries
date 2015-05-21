@@ -1,0 +1,67 @@
+8
+
+dir
+221
+https://172.22.1.159:8443/svn/dormitory/trunk/dormitory/test/com/cqupt/dormitory/mybatis/test
+https://172.22.1.159:8443/svn/dormitory
+
+
+
+2002-01-18T23:28:51.750000Z
+90
+hehaiyuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0d99a4-deb6-4343-9628-55602dcec4b6
+
+StudentInfoTest.java
+file
+
+
+
+
+2014-12-09T14:29:59.371493Z
+12452846109931dcc9d2ef319145a2ae
+2002-01-12T16:52:35.750000Z
+17
+fengdi
+
+halls
+dir
+
+TeacherInfoTest.java
+file
+
+
+
+
+2014-12-09T14:29:59.377494Z
+c70598d2b8bee9f58c7d49ee7ef24b95
+2002-01-06T17:41:09.843750Z
+5
+fengdi
+
+MybatisTest.java
+file
+
+
+
+
+2014-12-09T14:29:59.385494Z
+03c0f985f47386e05681bb707b47c4ff
+2002-01-18T23:28:51.750000Z
+90
+hehaiyuan
+

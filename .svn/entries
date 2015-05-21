@@ -1,0 +1,64 @@
+8
+
+dir
+221
+https://172.22.1.159:8443/svn/dormitory/trunk/dormitory
+https://172.22.1.159:8443/svn/dormitory
+
+
+
+2014-12-15T07:46:30.609375Z
+221
+hehaiyuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0d99a4-deb6-4343-9628-55602dcec4b6
+
+test
+dir
+
+.classpath
+file
+
+
+
+
+2014-12-09T14:30:09.286060Z
+13ea52e3506dba808d5b96333bf78892
+2014-12-07T06:16:20.515625Z
+173
+luoqin
+
+WebRoot
+dir
+
+.project
+file
+
+
+
+
+2014-12-09T14:30:09.290060Z
+4b5e4e1819ff92853a5559f27535ea72
+2002-01-23T17:01:28.000000Z
+140
+zhangying
+
+src
+dir
+
+.settings
+dir
+
